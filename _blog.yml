@@ -4710,3 +4710,13 @@
     - 3d
     - mesh
     - tutorial
+
+- local: improve_parquet_dedupe
+  title: "Improving Parquet Dedupe"
+  author: yuchenglow
+  thumbnail: /blog/assets/improve_parquet_dedupe/thumbnail.png
+  date: Oct 5, 2024
+  tags:
+    - parquet
+    - dedupe
+    - storage
